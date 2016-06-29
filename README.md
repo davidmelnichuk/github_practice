@@ -4,7 +4,7 @@ A repository with which to practice using git.
 
 ### What is your name?
 
-> My name
+> DAVID
 
 
 ### What is your favorite color?
