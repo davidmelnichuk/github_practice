@@ -12,3 +12,7 @@ A repository with which to practice using git.
 ### What is your favorite color?
 
 > favorite color
+
+### Say something random!
+
+> beep bop bo!
