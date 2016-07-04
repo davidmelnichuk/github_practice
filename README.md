@@ -15,4 +15,4 @@ A repository with which to practice using git.
 
 ### Say something random!
 
-> beep bop bo!
+> omg why isnt this working
